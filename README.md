@@ -3,11 +3,14 @@
 Simply type in your search query and hit enter to discover a world of captivating images. Whether you're looking for inspiration, graphics for your projects, or simply browsing for enjoyment, this app has you covered!
 
 ✨ Features:
-<p> User-friendly interface for seamless navigation.</p>
-<p> Quick and efficient search functionality.</p>
-<p> Stunning visuals sourced from Unsplash's extensive library.</p>
-<p> Responsive design ensures optimal viewing experience across devices.</p>
+<ul>
+  
+   <li> User-friendly interface for seamless navigation.</li>
+   <li> Quick and efficient search functionality.</li>
+   <li> Stunning visuals sourced from Unsplash's extensive library.</li>
+   <li> Responsive design ensures optimal viewing experience across devices.</li>
 
+</ul>
 
 
 
