@@ -2,7 +2,7 @@
 
 Simply type in your search query and hit enter to discover a world of captivating images. Whether you're looking for inspiration, graphics for your projects, or simply browsing for enjoyment, this app has you covered!
 
-✨ Features:
+ <th> Features: </th>
 <ul>
   
    <li> User-friendly interface for seamless navigation.</li>
