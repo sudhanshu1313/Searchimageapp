@@ -13,4 +13,4 @@ Responsive design ensures optimal viewing experience across devices.
 
 <h4>Live Demo :-  <a href=""> Image Search App </a> </h4>
 
-<img src="https://github.com/sudhanshu1313/Searchimageapp/blob/main/Image_Search%20App.png" alt="Image Search App" width="400" height="300px">
+<img src="https://github.com/sudhanshu1313/Searchimageapp/blob/main/Image_Search%20App.png" alt="Image Search App" width="500" height="270px">
